@@ -62,7 +62,7 @@ Reactive caching library for Android and Java
 - [rx-preferences](https://github.com/f2prateek/rx-preferences)
 ![star](http://githubbadges.com/star.svg?user=f2prateek&repo=rx-preferences)
 ![fork](http://githubbadges.com/fork.svg?user=f2prateek&repo=rx-preferences&style=flat&color=fff&background=007ec6)  
-Reactive SharedPreferences for Android http://f2prateek.com/2015/10/05/rx-preferences/
+Reactive SharedPreferences for Android. [See Blog](http://f2prateek.com/2015/10/05/rx-preferences/)
 
 ### Permission
 
