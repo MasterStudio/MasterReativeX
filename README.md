@@ -1,4 +1,4 @@
-# awesome-rx-android
+# awesome-rx-android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome RxJava for Android
 
 ## Guide
@@ -35,7 +35,7 @@ Easily group RxJava Observables together and tie them to your Android Activity l
 Handles Android's activity lifecyle for rxjava's Observable
 
 
-### UI & View & Animation
+### View & Animation
 
 - [RxBinding -- by JakeWharton](https://github.com/JakeWharton/RxBinding)
 ![star](http://githubbadges.com/star.svg?user=JakeWharton&repo=RxBinding)
