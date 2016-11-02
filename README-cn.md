@@ -8,7 +8,8 @@
 ### 通用
 
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-![star](http://githubbadges.com/star.svg?user=ReactiveX&repo=RxAndroid)
+![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
 
 ### 生命周期
 
