@@ -11,9 +11,8 @@ Translations: [中文版本](./README-cn.md)
 
 - [RxAndroid -- by ReactiveX](https://github.com/ReactiveX/RxAndroid)
 ![stars](https://img.shields.io/github/stars/ReactiveX/RxAndroid.svg?style=social&label=Star)
-![forks](https://img.shields.io/github/forks/ReactiveX/RxAndroid.svg?style=social&label=Fork)  
-![contributors](https://img.shields.io/github/contributors/ReactiveX/RxAndroid.svg?style=social&label=Contributors) 
-
+![forks](https://img.shields.io/github/forks/ReactiveX/RxAndroid.svg?style=social&label=Fork)
+![contributors](https://img.shields.io/github/contributors/ReactiveX/RxAndroid.svg?style=social&label=Contributors)  
 Android specific bindings for RxJava. It provides `AndroidSchedulers` with `Looper`.
 
 - [reark](https://github.com/reark/reark)
