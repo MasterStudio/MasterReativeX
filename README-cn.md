@@ -43,9 +43,9 @@ Markdown for Android, Supports TextView && EditText (Live Preview)
 
 - [RxBlur](https://github.com/SmartDengg/RxBlur)
 ![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
-![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
+![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
 ![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
-![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
+![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
 ![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
 
