@@ -24,7 +24,8 @@ Lifecycle handling APIs for Android apps using RxJava
 Easily group RxJava Observables together and tie them to your Android Activity lifecycle. RxPresso uses [Mockito](http://site.mockito.org/) to generate mocks of your repositories.
 
 - [rxloader](https://github.com/evant/rxloader)
-![star](http://githubbadges.com/star.svg?user=evant&repo=rxloader)  
+![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
 Handles Android's activity lifecyle for rxjava's Observable
 
 
