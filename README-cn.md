@@ -14,11 +14,13 @@
 ### 生命周期
 
 - [RxLifecycle](https://github.com/trello/RxLifecycle)
-![star](http://githubbadges.com/star.svg?user=trello&repo=RxLifecycle)  
+![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
 Lifecycle handling APIs for Android apps using RxJava
 
 - [RxGroups](https://github.com/airbnb/RxGroups)
-![star](http://githubbadges.com/star.svg?user=airbnb&repo=RxGroups)  
+![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
 Easily group RxJava Observables together and tie them to your Android Activity lifecycle. RxPresso uses [Mockito](http://site.mockito.org/) to generate mocks of your repositories.
 
 - [rxloader](https://github.com/evant/rxloader)
