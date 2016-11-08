@@ -55,6 +55,17 @@ Markdown for Android, Supports TextView && EditText (Live Preview)
 ![fork](http://githubbadges.com/fork.svg?user=SmartDengg&repo=RxBlur&style=flat&color=fff&background=007ec6)  
 [Chinese] Gaussian Blur using RxJava
 
+### Network
+- [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)
+![star](https://img.shields.io/github/stars/pwittchen/ReactiveNetwork.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/pwittchen/ReactiveNetwork.svg?style=social&label=Fork)   
+Android library listening network connection state and Internet connectivity with RxJava Observables
+
+- [RxDownload](https://github.com/ssseasonnn/RxDownload)
+![star](https://img.shields.io/github/stars/ssseasonnn/RxDownload.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/ssseasonnn/RxDownload.svg?style=social&label=Fork)  
+[Chinese] A Download Tool support multi-thread & breakpoint continual downloading, with check availibility smartly.
+
 ### Cache & Storage
 
 - [RxCache](https://github.com/VictorAlbertos/RxCache)
@@ -80,13 +91,6 @@ Android runtime permissions powered by RxJava
 ![star](http://githubbadges.com/star.svg?user=Piasy&repo=RxAndroidAudio)
 ![fork](http://githubbadges.com/fork.svg?user=Piasy&repo=RxAndroidAudio&style=flat&color=fff&background=007ec6)  
 Maybe the most robust Android Audio encapsulation library, with part Rx support. [See Blog](http://blog.piasy.com/2016/02/24/Robust-Android-Audio-encapsulation/)
-
-### Network
-
-- [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)
-![star](http://githubbadges.com/star.svg?user=pwittchen&repo=ReactiveNetwork)
-![fork](http://githubbadges.com/fork.svg?user=pwittchen&repo=ReactiveNetwork&style=flat&color=fff&background=007ec6)  
-Android library listening network connection state and Internet connectivity with RxJava Observables
 
 
 ### Camera
