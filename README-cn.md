@@ -48,9 +48,12 @@ Markdown for Android, Supports TextView && EditText (Live Preview)
 ![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
 ![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
 ![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
-![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)
-![star](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Star)
-![fork](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)  
+
+### 网络
+- [RxDownload](https://github.com/ssseasonnn/RxDownload)
+![star](https://img.shields.io/github/forks/ssseasonnn/RxDownload.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/ssseasonnn/RxDownload.svg?style=social&label=Fork)  
+基于RxJava打造的下载工具, 支持多线程下载和断点续传, 智能判断是否支持断点续传等功能
 
 ### 存储 & 缓存
 
