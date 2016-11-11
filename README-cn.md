@@ -68,7 +68,9 @@ Reactive SharedPreferences for Android http://f2prateek.com/2015/10/05/rx-prefer
 ### 权限
 
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions)
-![star](http://githubbadges.com/star.svg?user=tbruyelle&repo=RxPermissions)  
+![star](https://img.shields.io/github/forks/tbruyelle/RxPermissions.svg?style=social&label=Star)
+![fork](https://img.shields.io/github/forks/tbruyelle/RxPermissions.svg?style=social&label=Fork)  
+
 Android runtime permissions powered by RxJava
 
 ### 多媒体
